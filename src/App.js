@@ -33,7 +33,7 @@ class App extends React.Component {
       url:'https://www.googleapis.com/youtube/v3/search',
       part:'snippet',
       q:state.q,
-      key:'AIzaSyCjB1zwd6iMrM78n_7nynh1TVjbIzOfBoc',
+      key:'<Your App service key goes here>', 
       maxResults:state.maxResults
     }
 
