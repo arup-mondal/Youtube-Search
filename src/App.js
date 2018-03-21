@@ -73,7 +73,7 @@ class App extends React.Component {
     })
     return (
       <div className="container">
-        <div class="jumbotron">
+        <div className="jumbotron">
           <h1>Search Youtube Videos</h1> 
           <p>A simple React JS application to search for youtube videos.</p> 
         </div>
